@@ -48,7 +48,7 @@ Projects
 security.
 
 
-3. Network Traffic Analysis with Wireshark
+3. Network Traffic Analysis with Wireshark https://github.com/adoniyahbrown/Network-Traffic-Analysis-with-Wireshark/blob/main/README.md
 
    
 ● Objective: Analyze live network traffic to identify anomalies and potential threats.
