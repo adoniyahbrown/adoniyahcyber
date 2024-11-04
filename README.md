@@ -83,7 +83,7 @@ log collection and analysis.
 ● Outcome: Enhanced threat detection capabilities, reducing response time by 35%.
 
 
-6. Incident Response Plan
+6. Incident Response Plan https://github.com/adoniyahbrown/Create-an-Incident-Response-Plan/blob/main/README.md
 
 
 ● Objective: Develop a comprehensive incident response plan outlining procedures for various
