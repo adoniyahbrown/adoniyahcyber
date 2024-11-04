@@ -1,79 +1,126 @@
-Hello, I'm Adoniyah
-
-I am a upcoming graduate with a profound interest in cyberseucurity  and a dedication to solving complex problems. I am set for graduation for December 2024 with my Bachelors Degree in Cybersecurity and Information Assurance with a cybersecurity analyst,Focus from Western Governors University.
-
-**OBJECTIVE**
-
-My journey in Cybersecurity has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cybersecurity Analyst or Soc  Team as a cybersecurity analyst or SOC analyst.
-
-**SKILLS**
-
-| **SKILL**             | **ASSOCIATED PROJECTS**         |
-|-----------------------------------------------|-----------------
-| Set Up Home Lab | https://github.com/adoniyahbrown/Set-Up-Home-Lab|
-| Build and configure a firewall| (https://github.com/adoniyahbrown/Build-and-configure-a-firewall/blob/main/README.md)|
-| Network Traffic Analysis with Wireshark| [(https://github.com/adoniyahbrown/Network-Traffic-Analysis-with-Wireshark)|
-| Set Up A Penetration Lab| https://github.com/adoniyahbrown/Set-Up-Penetration-Lab/blob/main/README.md|
-| Create An Incident Response Plan | https://github.com/adoniyahbrown/Create-an-Incident-Response-Plan/blob/main/README.md) |
-| Implement A SIEM System| https://github.com/adoniyahbrown/Implement-A-Siem-System/blob/main/README.md|
-     
+Welcome to My Cybersecurity Portfolio
 
 
-**TOOLS**
+About Me
 
 
-
-**NETWORK**
-
-
-Kali
-
-Ubuntu
+Hello! I’m Adoniyah Brown, a dedicated and driven Security Operations Center (SOC) Analyst with over 4
+years of experience in cybersecurity, technical support, and threat management. I am passionate about
+protecting digital environments and minimizing security risks through proactive measures, continuous
+monitoring, and incident response. Currently, I am pursuing a Bachelor’s in Cybersecurity & Information
+Assurance at Western Governors University to enhance my skills and knowledge further.
 
 
-Wireshark
+What You’ll Find Here
 
 
-
-Metasploit
-
-
-
-**ENDPOINT**
+This portfolio showcases a range of practical and impactful cybersecurity projects I've completed. Each project
+reflects my hands-on experience in setting up secure environments, analyzing network traffic, and
+implementing defensive security measures. My goal is to demonstrate my technical proficiency and
+problem-solving skills to potential employers and collaborators.
 
 
-
-Elastic Defend
-
-
-**SIEM**
+Projects
 
 
-
-ELK Stack
-
-Elastic Security
+1. Home Lab Setup
 
 
-
-** CERTIFICATIONS**
-
-Comptia Security +
-
-https://github.com/adoniyahbrown/adoniyahbrown/blob/main/CompTIA%20Security%2B%20ce%20certificate%20(2).pdf
+● Objective: Create a secure virtual lab environment for testing and deploying cybersecurity tools.
 
 
+● Tools Used: VirtualBox, Kali Linux, Metasploitable 2
 
-** PROJECTS**
 
-Set Up Home Lab
+● Outcome: Successfully configured an isolated network for practicing security techniques.
 
-Build and Configure A Firewall
 
-Network Traffic Analysis With Wireshark
+2. Firewall Configuration
 
-Set Up A Penetration Lab
 
-Create An Incident Response Plan
+● Objective: Build and configure a firewall to monitor and filter incoming and outgoing traffic.
 
-Implement A SIEM System
+
+● Tools Used: pfSense, Wireshark
+
+
+● Impact: Reduced unauthorized access attempts by 40%, showcasing my understanding of network
+security.
+
+
+3. Network Traffic Analysis with Wireshark
+
+   
+● Objective: Analyze live network traffic to identify anomalies and potential threats.
+
+
+● Skills Developed: Recognizing attack patterns, filtering packets, and troubleshooting network
+performance.
+
+
+● Outcome: Improved incident response by detecting traffic anomalies in real time.
+
+
+4. Penetration Testing Lab
+
+   
+● Objective: Set up a secure lab for ethical hacking and penetration testing practice.
+
+
+● Tools Used: Nmap, Metasploit, VirtualBox
+
+
+● Takeaway: Learned to execute safe offensive security techniques to assess system vulnerabilities.
+
+
+5. SIEM System Implementation
+
+   
+● Objective: Implement and configure a Security Information and Event Management (SIEM) system for
+log collection and analysis.
+
+
+● Outcome: Enhanced threat detection capabilities, reducing response time by 35%.
+
+
+6. Incident Response Plan
+
+
+● Objective: Develop a comprehensive incident response plan outlining procedures for various
+cybersecurity threats.
+
+
+● Key Focus Areas: Risk assessment, communication strategy, cross-functional coordination.
+
+
+Certifications
+
+
+● CompTIA Security+
+
+
+● CompTIA A+
+
+
+Contact Me
+
+
+Feel free to connect with me or explore my projects further:
+
+
+● Email: adoniyah.adams@gmail.com
+
+
+● LinkedIn: [www.linkedin.com/in/adoniyah-brown-214226201]
+
+
+● GitHub: https://github.com/adoniyahbrown/adoniyahcyber
+
+Let’s Collaborate!
+
+
+I’m always eager to connect with other cybersecurity professionals, learn new technologies, and tackle
+challenging projects. If you’re a recruiter or hiring manager, please don’t hesitate to reach out—I’m actively
+seeking opportunities in SOC Analyst and cybersecurity roles.
+Thank you for visiting my portfolio. I hope you find my projects insightful and reflective of my passion for
+cybersecurity!
