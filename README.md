@@ -23,7 +23,7 @@ problem-solving skills to potential employers and collaborators.
 Projects
 
 
-1. Home Lab Setup
+1. Home Lab Setup https://github.com/adoniyahbrown/Set-Up-Home-Lab
 
 
 ● Objective: Create a secure virtual lab environment for testing and deploying cybersecurity tools.
