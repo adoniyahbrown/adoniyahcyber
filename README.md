@@ -35,7 +35,7 @@ Projects
 ● Outcome: Successfully configured an isolated network for practicing security techniques.
 
 
-2. Firewall Configuration
+2. Firewall Configuration https://github.com/adoniyahbrown/Build-and-configure-a-firewall/blob/main/README.md
 
 
 ● Objective: Build and configure a firewall to monitor and filter incoming and outgoing traffic.
