@@ -61,7 +61,7 @@ performance.
 ● Outcome: Improved incident response by detecting traffic anomalies in real time.
 
 
-4. Penetration Testing Lab
+4. Penetration Testing Lab  https://github.com/adoniyahbrown/Set-Up-Penetration-Lab/blob/main/README.md
 
    
 ● Objective: Set up a secure lab for ethical hacking and penetration testing practice.
