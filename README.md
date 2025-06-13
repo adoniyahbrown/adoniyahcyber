@@ -92,6 +92,29 @@ cybersecurity threats.
 
 ● Key Focus Areas: Risk assessment, communication strategy, cross-functional coordination.
 
+7. GRC Tracker Pro: Simple Risk Register  Tool https://github.com/adoniyahbrown/GRC-Tracker-Pro-
+  
+● Objective: GRC Tracker Pro is a lightweight, easy-to-use Risk Register tool designed for IT Governance, Risk, and Compliance (GRC) needs.
+It helps organizations document, prioritize, and manage cybersecurity and operational risks.
+
+● Outcome: Simplified Risk Tracking — Organize risks clearly in one place.
+Built-in Dashboard — See your overall Average Risk Score at a glance.
+Flexible Use — Start simple and scale your risk documentation over time.
+Beginner Friendly — Clear fields and instructions for first-time users.
+Unlike starting from a blank Excel file, this template provides built-in structure and dashboards for faster and more consistent risk management.
+
+8. Change Management Tracker https://github.com/adoniyahbrown/changemanagementtracker
+
+● Objective:Change Management Tracker is a lightweight tool designed to help organizations document, assess, and approve changes to systems, processes, and infrastructure. It supports IT and business teams in maintaining oversight, ensuring compliance, and minimizing operational risk during change implementation.
+
+This tracker is especially useful for teams operating under IT governance frameworks such as ITIL, COBIT, ISO 27001, and NIST, where structured change documentation and audit readiness are essential.
+
+
+● Outcome: IT Operations teams needing structured change control processes
+GRC and compliance teams documenting controls and approvals
+Business units implementing internal or infrastructure changes
+Audit preparation and internal governance reporting
+
 
 Certifications
 
